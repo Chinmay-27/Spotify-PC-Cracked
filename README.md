@@ -77,7 +77,3 @@ This repo is for:
 - [r/Spicetify on Reddit](https://www.reddit.com/r/spicetify/)
 
 ---
-
-## 📄 License
-
-This repository contains no original binaries or proprietary code. It wraps open-source tools under their respective licenses. See the `LICENSE` file for more info.
